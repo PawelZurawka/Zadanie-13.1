@@ -1,0 +1,13 @@
+body { padding: 10px; text-align: center; }
+
+#box1, #box2, #box3, #box4, #box5 { display: inline-block; margin: 10px; width: 200px; border: 1px solid #000; min-height: 100px; text-align: center; vertical-align: top; }
+
+header { display: block; border-bottom: 1px solid #000; }
+
+.highlighted { background: indianred; }
+
+.special-header header { font-weight: bold; background: blueviolet; }
+
+div { opacity: 0.7; }
+
+.important { opacity: 1; }
